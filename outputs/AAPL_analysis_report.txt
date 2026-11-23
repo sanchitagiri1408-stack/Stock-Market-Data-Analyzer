@@ -1,0 +1,60 @@
+=================================================================
+   STOCK MARKET DATA ANALYZER - ANALYSIS REPORT
+=================================================================
+   Generated : 2026-11-19 15:30:02
+=================================================================
+
+1. OVERVIEW
+----------------------------------------
+   Ticker          : AAPL
+   Date Range      : 2023-01-03 to 2024-12-30
+   Trading Days    : 501
+
+2. PRICE SUMMARY
+----------------------------------------
+   Start Price     : $125.07
+   End Price       : $252.20
+   Highest Price   : $259.02
+   Lowest Price    : $125.02
+   Average Price   : $189.83
+   Total Return    : 101.65%
+
+3. RISK & RETURN METRICS
+----------------------------------------
+   Avg Daily Return      : 0.1494%
+   Daily Std Dev         : 1.3459%
+   Annualised Return     : 42.40%
+   Annualised Volatility : 21.37%
+   Sharpe Ratio          : 1.7619
+   Max Drawdown          : -16.71%
+
+4. TECHNICAL LEVELS
+----------------------------------------
+   Support (25th pct)    : $172.07
+   Resistance (75th pct) : $214.24
+   Trend (SMA 50/200)    : Uptrend
+
+5. INTERPRETATION
+----------------------------------------
+The stock gained 101.7% over the period - a strong performance.
+   Annualised volatility of 21.4% indicates MODERATE-to-HIGH risk.
+   Sharpe ratio of 1.76 suggests excellent risk-adjusted returns.
+   Maximum drawdown of 16.7% shows the worst peak-to-trough loss.
+   Current trend signal: Uptrend.
+
+6. GENERATED CHARTS
+----------------------------------------
+   - AAPL_price_moving_avg.png
+   - AAPL_returns_distribution.png
+   - AAPL_cumulative_returns.png
+   - AAPL_volatility.png
+   - AAPL_volume.png
+   - AAPL_high_low_range.png
+   - AAPL_monthly_returns_heatmap.png
+   - AAPL_drawdown.png
+   - AAPL_return_vs_volume.png
+
+=================================================================
+   DISCLAIMER: This report is for educational purposes only.
+   It is NOT financial advice. Always do your own research.
+=================================================================
